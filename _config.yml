@@ -1,16 +1,16 @@
 # Site settings
-title: 读立写生
+title: 行走的木匠
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "木匠|脚步不停止"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://liuli9203.tech"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " liuli9203"
+  email: liuli9203@gmail.com
+  bio: "行走的木匠"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
@@ -18,9 +18,9 @@ favicon: img/favicon.png
 
 douban_username:  
 twitter_username: 
-github_username: 
+github_username: liuli9203
 facebook_username: 
-weibo_username: 
+weibo_username: liuli嗨皮
 zhihu_username: 
 
 # Build settings  
@@ -33,7 +33,7 @@ paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Asia/Shanghai
+timezone: Asia/Beijing
 
 # Defaults for posts
 defaults:
